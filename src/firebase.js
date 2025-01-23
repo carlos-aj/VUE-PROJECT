@@ -3,7 +3,7 @@ import { getFirestore, collection } from 'firebase/firestore'
 // ... other firebase imports
 
 export const firebaseApp = initializeApp({
-    apiKey: "",
+    apiKey: "AIzaSyCiapqiZ9cipr5J5nsFO-9QAPHxhLVbYGg",
     authDomain: "testfirestore-3008a.firebaseapp.com",
     projectId: "testfirestore-3008a",
     storageBucket: "testfirestore-3008a.firebasestorage.app",
